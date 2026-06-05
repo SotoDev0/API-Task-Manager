@@ -27,3 +27,7 @@ pip install -r requirements.txt
 ```bash
 python -m uvicorn app.main:app --reload
 ```
+
+## Estado
+
+Proyecto de aprendizaje para practicar FastAPI, autenticación JWT y operaciones CRUD con SQLAlchemy.
